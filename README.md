@@ -34,4 +34,4 @@ Python
 # Authors
 Alex John, B. ([@Praetorian_GRD](https://twitter.com/Praetorian_GRD))
 # License
-Copyright (C) 2021 Alex John, B. This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/west-wind/abuse-insights/main/LICENSE) file for details.
+Copyright (C) 2022 Alex John, B. This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/west-wind/abuse-insights/main/LICENSE) file for details.
