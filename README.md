@@ -31,7 +31,9 @@ If you encounter an error, create an issue here. Currently this script uses 3 re
 
 # Built With
 Python
+
 Abuse IP DB API ([Abuse IP DB API Documentation](https://www.abuseipdb.com/api.html))   
+
 # Authors
 Alex John, B. ([@Praetorian_GRD](https://twitter.com/Praetorian_GRD))
 # License
