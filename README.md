@@ -30,10 +30,8 @@ IF the IP address has been reported to Abuse IP DB in the past 90 days, & userna
 If you encounter an error, create an issue here. Currently this script uses 3 regular expressions to extract username related information from reporter comments. If you notice the need to extract usernames from a different type of reporter comment, please create an issue here. 
 
 # Built With
-Python
-
-Abuse IP DB API ([Abuse IP DB API Documentation](https://www.abuseipdb.com/api.html))   
-
+ - Python
+ - Abuse IP DB API ([Abuse IP DB API Documentation](https://www.abuseipdb.com/api.html))   
 # Authors
 Alex John, B. ([@Praetorian_GRD](https://twitter.com/Praetorian_GRD))
 # License
