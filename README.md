@@ -32,7 +32,9 @@ If you encounter an error, create an issue here. Currently this script uses 3 re
 # Built With
  - Python
  - Abuse IP DB API ([Abuse IP DB API Documentation](https://www.abuseipdb.com/api.html))   
+
 # Authors
 Alex John, B. ([@Praetorian_GRD](https://twitter.com/Praetorian_GRD))
+
 # License
 Copyright (C) 2022 Alex John, B. This project is licensed under the MIT License - see the [LICENSE.md](https://raw.githubusercontent.com/west-wind/abuse-insights/main/LICENSE) file for details.
